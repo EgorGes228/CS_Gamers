@@ -1,0 +1,86 @@
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;;
+    margin: 0px;
+    background-color: #2c3a55;
+    color: white;
+}
+
+h1{
+    height: 80px;
+    font-size: 50pt;
+    margin-left: 80px;
+    color: #f6d514;
+    display: inline-block;
+    transition: 0.7s;
+}
+.ob{
+    background-color: #b8a4cc;
+    margin: 0px;
+    color: white;
+    font-size: 30pt;
+    padding: 20px;
+    height: 65px;
+    width: 100%;
+    bottom: 0px;
+    transition: 0.7s;
+    font-weight: 600;
+}
+.ob:hover {
+    color: #f6d514;
+    height: 115px;
+    font-size: 20pt;
+    font-weight: 400;
+}
+
+
+a{
+    color: whitesmoke;
+    transition: 0.1s;
+}
+a:hover{
+    color: #fada78;
+}  
+hr{
+    position: relative;
+    right: 0px;
+    width: 80%;
+    color: #f6d514;
+    border: 1px solid #fada78;
+}
+.gmi{
+    border-radius: 15px;
+    position: relative;
+    width: 75px;
+    height: 75px;
+    left: 700px;
+    transition: 0.7s;
+}
+.gmi:hover{
+    width: 90px;
+    height: 90px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 0px;
+    
+}
+.players{
+    display: inline-block;
+    background-color: #04448d;
+    width: 20%;
+    margin: 20px;
+    margin-top: 30px;
+    border-radius: 30px;
+    transition: 0.5s;
+    box-shadow: 5px 3px 4px 2px rgb(0, 0, 0, 0.27);
+}
+.players:hover{
+    font-size: 15pt;
+    width: 23%;
+}
+article{
+    text-align: center;
+
+}
+    
